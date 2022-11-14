@@ -1,0 +1,344 @@
+{
+  "pools": [
+    {
+      "name": "main",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 50,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:coal"
+        },
+        {
+          "entryName": "loottweaker#17",
+          "weight": 2,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-gift"
+        },
+        {
+          "entryName": "loottweaker#18",
+          "weight": 3,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-loli_lolipop"
+        },
+        {
+          "entryName": "loottweaker#19",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-huaji"
+        },
+        {
+          "entryName": "loottweaker#5",
+          "weight": 20,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 8.0,
+                "max": 16.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "entryName": "loottweaker#13",
+          "weight": 12,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-food_bag"
+        },
+        {
+          "entryName": "loottweaker#24",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-experience_transporter"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 2.0,
+                "max": 5.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:emerald"
+        },
+        {
+          "entryName": "loottweaker#14",
+          "weight": 12,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-furniture_crate"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 10,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 3.0,
+                "max": 8.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:diamond"
+        },
+        {
+          "entryName": "loottweaker#15",
+          "weight": 2,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-respawn_anchor"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 10,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 1.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "minecraft:coal"
+        },
+        {
+          "entryName": "loottweaker#16",
+          "weight": 20,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-delivery_order"
+        },
+        {
+          "entryName": "loottweaker#9",
+          "weight": 3,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-reward_ticket_epic"
+        },
+        {
+          "entryName": "loottweaker#20",
+          "weight": 10,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-bag_of_dyes"
+        },
+        {
+          "entryName": "loottweaker#8",
+          "weight": 10,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-reward_ticket_rare"
+        },
+        {
+          "entryName": "loottweaker#10",
+          "weight": 1,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-reward_ticket_legendary"
+        },
+        {
+          "entryName": "loottweaker#21",
+          "weight": 2,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-skill_reset_scroll"
+        },
+        {
+          "entryName": "loottweaker#7",
+          "weight": 20,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-reward_ticket_common"
+        },
+        {
+          "entryName": "loottweaker#11",
+          "weight": 5,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-sunny_doll"
+        },
+        {
+          "entryName": "loottweaker#22",
+          "weight": 12,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 4.0,
+                "max": 24.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-time_fragment"
+        },
+        {
+          "entryName": "loottweaker#6",
+          "weight": 15,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 5.0,
+                "max": 10.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "entryName": "loottweaker#12",
+          "weight": 2,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-catalyst_star"
+        },
+        {
+          "entryName": "loottweaker#23",
+          "weight": 2,
+          "quality": 1,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "additions:greedycraft-plate_of_honor"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}
