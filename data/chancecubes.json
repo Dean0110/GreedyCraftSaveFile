@@ -1,1 +1,1 @@
-{"profiles":{"25e83f10-e3c6-3ea1-a2e0-b2a2245b7624":{"default":true,"greedycraft":true},"8469be73-f172-4662-b2bf-fab1bd54cb30":{"default":true,"greedycraft":true,"hardcore":true}}}
+{"profiles":{"25e83f10-e3c6-3ea1-a2e0-b2a2245b7624":{"default":true,"greedycraft":true},"8469be73-f172-4662-b2bf-fab1bd54cb30":{"default":true,"greedycraft":true,"hardcore":true,"nether":false,"no_death_mg":false,"no_status_effects":false,"peaceful":false,"no_explosions":false,"no_area_of_effects":false}}}

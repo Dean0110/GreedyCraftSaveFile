@@ -261,7 +261,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-14 20:00:11 +0800"
+      "gc_location": "2022-11-15 17:21:51 +0800"
     },
     "done": true
   },
@@ -710,6 +710,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2022-11-15 17:38:15 +0800"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2022-11-06 19:53:42 +0800",
@@ -1085,6 +1091,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2022-11-15 17:57:16 +0800"
+    },
+    "done": true
+  },
   "treasure2:recipes/skull_chest": {
     "criteria": {
       "has_skull": "2022-11-06 00:32:21 +0800"
@@ -1418,6 +1430,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2022-11-06 22:50:33 +0800"
@@ -1612,6 +1630,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/skyroot_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/goblin_knight": {
     "criteria": {
       "hurt_alt": "2022-11-06 21:19:17 +0800"
@@ -1674,7 +1698,7 @@
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-14 20:00:11 +0800"
+      "gc_entered_twilight_forest": "2022-11-15 17:21:51 +0800"
     },
     "done": true
   },
@@ -1698,7 +1722,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-14 20:00:11 +0800"
+      "gc_killed_wither": "2022-11-15 17:21:51 +0800"
     },
     "done": true
   },
@@ -1708,9 +1732,15 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
+    },
+    "done": true
+  },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-14 20:00:11 +0800"
+      "gc_entered_the_nether": "2022-11-15 17:21:51 +0800"
     },
     "done": true
   },
@@ -1987,6 +2017,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2022-11-07 12:47:39 +0800"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
     },
     "done": true
   },
@@ -2516,6 +2552,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-11-06 15:27:46 +0800"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
     },
     "done": true
   },
@@ -3162,6 +3204,12 @@
   "enderiomachines:basics/alloy/2_energetic_alloy_get": {
     "criteria": {
       "inv_changed-enderio:item_energetic_alloy": "2022-11-06 16:01:20 +0800"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2022-11-15 13:13:46 +0800"
     },
     "done": true
   },
@@ -4326,6 +4374,12 @@
       "has_stone": "2022-11-06 15:29:26 +0800"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter2": "2022-11-15 17:38:15 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
