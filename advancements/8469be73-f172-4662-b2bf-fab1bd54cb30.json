@@ -1,13 +1,445 @@
 {
+  "treasure2:recipes/crystal_skull_chest": {
+    "criteria": {
+      "has_skull": "2022-11-15 21:06:11 +0800"
+    },
+    "done": true
+  },
+  "abyssalcraft:root": {
+    "criteria": {
+      "necronomicon": "2022-11-15 21:02:21 +0800"
+    },
+    "done": true
+  },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2022-11-15 21:06:11 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-11-16 00:57:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/summon_destroyer": {
+    "criteria": {
+      "summoned": "2022-11-15 22:02:44 +0800"
+    },
+    "done": true
+  },
+  "cqrepoured:cqr/root": {
+    "criteria": {
+      "tick": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/umbrium": {
+    "criteria": {
+      "umbrium": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:04 +0800"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2022-11-15 21:06:11 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-11-15 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "extrabotany:main/ringset": {
+    "criteria": {
+      "7": "2022-11-15 21:15:04 +0800"
+    },
+    "done": false
+  },
   "greedycraft:elysia/root": {
     "criteria": {
       "gc_location": "2022-11-15 17:32:01 +0800"
     },
     "done": true
   },
+  "defiledlands:recipes/storage/umbrium_block_uncraft": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2022-11-15 23:47:16 +0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/book": {
+    "criteria": {
+      "gc_get_elysia_book": "2022-11-15 21:02:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "iblis_headshots:adventure/get_head_shot": {
+    "criteria": {
+      "player": "2022-11-15 21:28:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2022-11-15 23:47:16 +0800"
+    },
+    "done": true
+  },
+  "tofucraft:recipes/food/momentofu_block": {
+    "criteria": {
+      "soybeans": "2022-11-15 21:13:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-11-15 21:27:10 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "sakura:alt/plants/cooking_pot": {
+    "criteria": {
+      "bamboo": "2022-11-16 00:02:28 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_block": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2022-11-15 22:05:52 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2022-11-15 23:21:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-11-15 23:28:24 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/summon_mourner": {
+    "criteria": {
+      "summoned": "2022-11-15 23:16:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2022-11-16 00:46:05 +0800",
+      "cookie": "2022-11-15 21:06:28 +0800",
+      "enchanted_golden_apple": "2022-11-16 00:46:20 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-11-15 22:18:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-11-15 21:14:54 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2022-11-16 01:05:08 +0800",
+      "red_flower": "2022-11-16 01:05:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2022-11-15 22:34:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-11-15 23:47:25 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "plains_defiled": "2022-11-15 22:01:31 +0800"
+    },
+    "done": false
+  },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2022-11-16 00:08:48 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "scuttler": "2022-11-15 23:20:25 +0800",
+      "slime_defiled": "2022-11-15 23:20:01 +0800",
+      "host": "2022-11-15 23:20:02 +0800",
+      "shambler": "2022-11-15 23:18:25 +0800"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2022-11-15 20:59:51 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block": {
+    "criteria": {
+      "has_material": "2022-11-15 22:07:23 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-11-15 21:39:11 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-11-15 21:06:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-11-15 21:54:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2022-11-16 00:47:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "silverfish": "2022-11-15 21:14:30 +0800"
+    },
+    "done": true
+  },
   "greedycraft:elysia/log1": {
     "criteria": {
       "gc_entered_twilight_forest": "2022-11-15 17:32:01 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:53 +0800"
     },
     "done": true
   },
@@ -20,6 +452,477 @@
   "greedycraft:elysia/log2": {
     "criteria": {
       "gc_entered_the_nether": "2022-11-15 17:32:01 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log4": {
+    "criteria": {
+      "gc_stage_ender_charm": "2022-11-15 21:49:36 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-11-15 21:14:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbra_blaster": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-11-15 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills_with_trees": "2022-11-15 22:59:27 +0800",
+      "taiga": "2022-11-15 22:57:15 +0800",
+      "extreme_hills": "2022-11-15 22:59:23 +0800",
+      "river": "2022-11-15 22:57:50 +0800",
+      "desert": "2022-11-15 21:53:26 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:04 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2022-11-16 00:57:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2022-11-15 23:01:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-11-15 21:06:28 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit2": "2022-11-15 23:33:44 +0800",
+      "inv_changed-enderio:liquid_conduit_ender2": "2022-11-16 00:03:28 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2022-11-15 23:33:44 +0800"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2022-11-15 22:20:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "plains_defiled": "2022-11-15 22:01:31 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget_combine": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:04 +0800"
+    },
+    "done": true
+  },
+  "extrabotany:main/bottleset": {
+    "criteria": {
+      "iron_helmet": "2022-11-15 23:02:23 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-11-15 21:13:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-11-15 21:13:19 +0800"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2022-11-15 22:26:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "tofucraft:tofucraft/enter_tofuworld": {
+    "criteria": {
+      "entered_tofucraft": "2022-11-15 21:12:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "bonsaitrees:grow": {
+    "criteria": {
+      "finished_growing_a_bonsai_tree": "2022-11-15 20:52:23 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-11-15 22:18:45 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block_uncraft": {
+    "criteria": {
+      "has_material": "2022-11-15 22:07:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2022-11-15 23:20:26 +0800",
+      "evoker": "2022-11-15 23:18:18 +0800",
+      "silverfish": "2022-11-15 21:14:30 +0800",
+      "zombie": "2022-11-15 23:49:02 +0800",
+      "creeper": "2022-11-15 21:54:11 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-11-16 00:56:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-11-15 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-11-16 00:57:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-11-16 00:56:30 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tc_aspects": {
+    "criteria": {
+      "thaumonomicon": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-11-15 20:52:02 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2022-11-15 22:03:53 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-11-15 23:47:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-11-15 22:39:32 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/phytoprostasia_amulet": {
+    "criteria": {
+      "has_material": "2022-11-15 22:53:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2022-11-16 01:05:08 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2022-11-15 22:03:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-11-16 00:12:28 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2022-11-15 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-11-15 23:01:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-11-15 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2022-11-15 21:53:05 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2022-11-15 22:02:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2022-11-15 23:01:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2022-11-15 23:01:03 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2022-11-16 00:03:28 +0800"
     },
     "done": true
   }

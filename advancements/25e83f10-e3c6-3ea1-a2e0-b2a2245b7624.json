@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2022-11-15 22:52:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2022-11-07 20:48:50 +0800"
@@ -261,7 +267,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-15 17:21:51 +0800"
+      "gc_location": "2022-11-15 19:51:42 +0800"
     },
     "done": true
   },
@@ -512,9 +518,10 @@
       "shambler_twisted": "2022-11-10 13:27:51 +0800",
       "scuttler": "2022-11-10 13:35:28 +0800",
       "slime_defiled": "2022-11-10 13:28:00 +0800",
-      "host": "2022-11-10 13:28:27 +0800"
+      "host": "2022-11-10 13:28:27 +0800",
+      "shambler": "2022-11-15 23:19:46 +0800"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
@@ -1031,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-11-15 23:10:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
       "has_brick": "2022-11-06 00:34:23 +0800"
@@ -1115,6 +1128,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2022-11-15 23:18:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2022-11-06 20:22:52 +0800"
@@ -1130,6 +1149,12 @@
   "twilightforest:alt/entities/yeti": {
     "criteria": {
       "hurt": "2022-11-06 21:05:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-11-16 00:57:43 +0800"
     },
     "done": true
   },
@@ -1150,6 +1175,12 @@
   "twilightforest:alt/entities/minoshroom": {
     "criteria": {
       "hurt_by_indirect": "2022-11-11 11:12:47 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/summon_destroyer": {
+    "criteria": {
+      "summoned": "2022-11-15 22:02:44 +0800"
     },
     "done": true
   },
@@ -1394,9 +1425,21 @@
     },
     "done": true
   },
+  "sakura:alt/plants/cooking_pot": {
+    "criteria": {
+      "bamboo": "2022-11-16 00:01:52 +0800"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2022-11-06 16:12:11 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:main/summon_mourner": {
+    "criteria": {
+      "summoned": "2022-11-15 23:16:45 +0800"
     },
     "done": true
   },
@@ -1648,6 +1691,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/scarlite_block": {
+    "criteria": {
+      "has_material": "2022-11-15 23:18:47 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "0": "2022-11-07 12:50:36 +0800"
@@ -1698,7 +1747,7 @@
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-15 17:21:51 +0800"
+      "gc_entered_twilight_forest": "2022-11-15 19:51:42 +0800"
     },
     "done": true
   },
@@ -1722,7 +1771,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-15 17:21:51 +0800"
+      "gc_killed_wither": "2022-11-15 19:51:42 +0800"
     },
     "done": true
   },
@@ -1740,7 +1789,7 @@
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-15 17:21:51 +0800"
+      "gc_entered_the_nether": "2022-11-15 19:51:42 +0800"
     },
     "done": true
   },
@@ -1753,6 +1802,12 @@
   "twilightforest:alt/entities/pinch_beetle": {
     "criteria": {
       "hurt": "2022-11-11 11:16:49 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log4": {
+    "criteria": {
+      "gc_stage_ender_charm": "2022-11-15 21:49:40 +0800"
     },
     "done": true
   },
@@ -1797,6 +1852,7 @@
       "birch_forest": "2022-11-07 21:04:56 +0800",
       "deep_ocean": "2022-11-06 15:51:08 +0800",
       "beaches": "2022-11-05 23:34:44 +0800",
+      "extreme_hills_with_trees": "2022-11-15 23:10:58 +0800",
       "desert_hills": "2022-11-06 13:09:37 +0800",
       "mesa": "2022-11-07 21:32:33 +0800",
       "savanna": "2022-11-05 23:12:00 +0800",
@@ -2604,6 +2660,7 @@
       "cooked_mutton": "2022-11-10 20:35:35 +0800",
       "cooked_beef": "2022-11-06 19:28:12 +0800",
       "baked_potato": "2022-11-06 11:34:36 +0800",
+      "beef": "2022-11-16 01:55:34 +0800",
       "porkchop": "2022-11-07 23:02:25 +0800",
       "clownfish": "2022-11-09 20:03:59 +0800",
       "apple": "2022-11-05 23:58:53 +0800",
@@ -2612,6 +2669,7 @@
       "rabbit": "2022-11-06 13:46:04 +0800",
       "cooked_cod": "2022-11-09 20:17:55 +0800",
       "melon": "2022-11-06 19:36:07 +0800",
+      "pumpkin_pie": "2022-11-15 21:17:42 +0800",
       "raw_salmon": "2022-11-06 15:57:07 +0800",
       "pufferfish": "2022-11-09 20:03:57 +0800",
       "bread": "2022-11-06 13:48:03 +0800",
@@ -2661,6 +2719,12 @@
   "twilightforest:alt/treasures/charms": {
     "criteria": {
       "1": "2022-11-06 21:37:36 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2022-11-15 23:18:46 +0800"
     },
     "done": true
   },
@@ -3201,6 +3265,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2022-11-15 23:18:46 +0800"
+    },
+    "done": true
+  },
   "enderiomachines:basics/alloy/2_energetic_alloy_get": {
     "criteria": {
       "inv_changed-enderio:item_energetic_alloy": "2022-11-06 16:01:20 +0800"
@@ -3424,6 +3494,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2022-11-15 23:16:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-11-06 00:15:25 +0800"
@@ -3589,6 +3665,12 @@
   "treasure2:recipes/key_ring": {
     "criteria": {
       "has_iron_ingot": "2022-11-06 00:59:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-11-16 00:58:12 +0800"
     },
     "done": true
   },
@@ -4132,6 +4214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-11-15 21:18:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-11-07 22:21:01 +0800"
@@ -4320,6 +4408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-11-15 21:18:46 +0800"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/fluix": {
     "criteria": {
       "certus": "2022-11-06 22:54:38 +0800"
@@ -4329,6 +4423,12 @@
   "cfm:appliance_city": {
     "criteria": {
       "place_appliance": "2022-11-09 19:40:49 +0800"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/scarlite_block_uncraft": {
+    "criteria": {
+      "has_material": "2022-11-15 23:18:47 +0800"
     },
     "done": true
   },
@@ -4356,6 +4456,12 @@
       "giant_tortoise": "2022-11-07 21:14:11 +0800"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-11-16 00:57:43 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
