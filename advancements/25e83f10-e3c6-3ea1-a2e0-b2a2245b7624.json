@@ -267,7 +267,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-15 19:51:42 +0800"
+      "gc_location": "2022-11-16 09:42:34 +0800"
     },
     "done": true
   },
@@ -1747,7 +1747,7 @@
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-15 19:51:42 +0800"
+      "gc_entered_twilight_forest": "2022-11-16 09:42:34 +0800"
     },
     "done": true
   },
@@ -1771,7 +1771,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-15 19:51:42 +0800"
+      "gc_killed_wither": "2022-11-16 09:42:34 +0800"
     },
     "done": true
   },
@@ -1789,7 +1789,7 @@
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-15 19:51:42 +0800"
+      "gc_entered_the_nether": "2022-11-16 09:42:34 +0800"
     },
     "done": true
   },
@@ -1807,7 +1807,7 @@
   },
   "greedycraft:elysia/log4": {
     "criteria": {
-      "gc_stage_ender_charm": "2022-11-15 21:49:40 +0800"
+      "gc_stage_ender_charm": "2022-11-16 09:42:34 +0800"
     },
     "done": true
   },
@@ -2815,6 +2815,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2022-11-07 12:51:18 +0800"
+    },
+    "done": true
+  },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2022-11-16 17:26:14 +0800"
     },
     "done": true
   },
