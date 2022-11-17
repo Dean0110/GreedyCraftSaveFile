@@ -24,8 +24,8 @@
 -630 57 2497 -627 63 2501 StonePillar.tml
 -595 60 1655 -586 71 1666 ArrowTrapTomb.tml
 -592 59 2108 -588 61 2112 EmeraldOreOutcrop.tml
--576 59 2025 -569 63 2032 TinyFarmField.tml
 -576 61 1656 -564 66 1668 AncientFountain.tml
+-576 59 2025 -569 63 2032 TinyFarmField.tml
 -552 60 1906 -539 69 1919 VolcanicVent.tml
 -544 61 2191 -541 67 2195 StonePillar.tml
 -530 60 1351 -528 64 1354 SkeletonHeadStatue.tml

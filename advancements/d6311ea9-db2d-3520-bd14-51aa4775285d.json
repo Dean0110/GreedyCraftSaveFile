@@ -1,0 +1,176 @@
+{
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/trophies": {
+    "criteria": {
+      "2": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log1": {
+    "criteria": {
+      "gc_entered_twilight_forest": "2022-11-17 12:47:58 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log3": {
+    "criteria": {
+      "gc_killed_wither": "2022-11-17 12:47:58 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log2": {
+    "criteria": {
+      "gc_entered_the_nether": "2022-11-17 12:47:58 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log5": {
+    "criteria": {
+      "gc_stage_hardmode": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "cqrepoured:cqr/root": {
+    "criteria": {
+      "tick": "2022-11-17 12:47:57 +0800"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-11-17 12:47:57 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2022-11-17 12:47:56 +0800",
+      "knight": "2022-11-17 12:47:56 +0800",
+      "trophy": "2022-11-17 12:47:56 +0800",
+      "structure": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "4": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-11-17 12:47:57 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2022-11-17 12:47:56 +0800",
+      "kill_lich": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "queen": "2022-11-17 12:47:56 +0800",
+      "previous_progression": "2022-11-17 12:47:56 +0800",
+      "trophy": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "lifedrain_scepter": "2022-11-17 12:47:56 +0800",
+      "twilight_scepter": "2022-11-17 12:47:56 +0800",
+      "shield_scepter": "2022-11-17 12:47:56 +0800",
+      "kill_lich": "2022-11-17 12:47:56 +0800",
+      "trophy": "2022-11-17 12:47:56 +0800",
+      "zombie_scepter": "2022-11-17 12:47:56 +0800",
+      "kill_naga": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-11-17 12:47:57 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/root": {
+    "criteria": {
+      "gc_location": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-11-17 12:47:57 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-11-17 12:47:56 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2022-11-17 12:47:56 +0800"
+    },
+    "done": false
+  }
+}
