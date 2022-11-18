@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/doublechest": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-11-06 11:38:30 +0800"
@@ -504,6 +510,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/aprilfool": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:52 +0800"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2022-11-06 19:42:15 +0800"
@@ -635,6 +647,12 @@
   "twilightforest:alt/entities/undead": {
     "criteria": {
       "0": "2022-11-06 19:26:03 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/squid": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:21 +0800"
     },
     "done": true
   },
@@ -875,6 +893,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/blaze": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:51 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "0": "2022-11-07 12:50:36 +0800"
@@ -913,7 +937,7 @@
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-17 20:20:23 +0800"
+      "gc_entered_twilight_forest": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
@@ -925,7 +949,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-17 20:20:23 +0800"
+      "gc_killed_wither": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
@@ -943,19 +967,19 @@
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-17 20:20:23 +0800"
+      "gc_entered_the_nether": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log5": {
     "criteria": {
-      "gc_stage_hardmode": "2022-11-17 20:20:23 +0800"
+      "gc_stage_hardmode": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log4": {
     "criteria": {
-      "gc_stage_ender_charm": "2022-11-17 20:20:23 +0800"
+      "gc_stage_ender_charm": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
@@ -2047,6 +2071,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/silverfish": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:58 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/wraith": {
     "criteria": {
       "hurt_by_indirect": "2022-11-11 12:02:27 +0800"
@@ -2062,6 +2092,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-11-06 15:29:26 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/menorah": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:50 +0800"
     },
     "done": true
   },
@@ -2152,6 +2188,24 @@
   "twilightforest:alt/biomes/fire_swamp": {
     "criteria": {
       "discover": "2022-11-11 10:56:42 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/chicken": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:22 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pig": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:25:11 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/mooshroom": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:52 +0800"
     },
     "done": true
   },
@@ -2418,6 +2472,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/spider": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:37 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hydra_lair": {
     "criteria": {
       "discover": "2022-11-11 10:57:04 +0800"
@@ -2656,7 +2716,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-17 20:20:23 +0800"
+      "gc_location": "2022-11-18 09:53:24 +0800"
     },
     "done": true
   },
@@ -3587,9 +3647,21 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/ghast": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2022-11-09 22:39:07 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/enderchest": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:22 +0800"
     },
     "done": true
   },
@@ -3644,6 +3716,12 @@
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
       "hurt": "2022-11-06 21:05:50 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/lead": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:58 +0800"
     },
     "done": true
   },
@@ -3804,6 +3882,12 @@
   "twilightforest:alt/treasures/charms": {
     "criteria": {
       "1": "2022-11-06 21:37:36 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/mishumaasaba": {
+    "criteria": {
+      "crafting_table": "2022-11-18 13:24:23 +0800"
     },
     "done": true
   },
@@ -4008,6 +4092,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2022-11-06 20:35:59 +0800"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/20": {
+    "criteria": {
+      "example": "2022-11-18 13:24:52 +0800"
     },
     "done": true
   },
@@ -4693,6 +4783,12 @@
   "enderio:root": {
     "criteria": {
       "location": "2022-11-07 22:09:18 +0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/ioport": {
+    "criteria": {
+      "certus": "2022-11-18 16:52:18 +0800"
     },
     "done": true
   },
