@@ -9,6 +9,7 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-1949 61 -25 -1945 63 -21 EmeraldOreOutcrop.tml
 -1870 56 -82 -1863 65 -75 Outcrop.tml
 -1865 55 -69 -1853 60 -57 AncientFountain.tml
 -1858 57 -37 -1853 63 -32 CaveSpiderBurrow.tml
@@ -24,8 +25,9 @@
 -630 57 2497 -627 63 2501 StonePillar.tml
 -595 60 1655 -586 71 1666 ArrowTrapTomb.tml
 -592 59 2108 -588 61 2112 EmeraldOreOutcrop.tml
--576 61 1656 -564 66 1668 AncientFountain.tml
 -576 59 2025 -569 63 2032 TinyFarmField.tml
+-576 61 1656 -564 66 1668 AncientFountain.tml
+-553 57 2492 -546 66 2499 Outcrop.tml
 -552 60 1906 -539 69 1919 VolcanicVent.tml
 -544 61 2191 -541 67 2195 StonePillar.tml
 -530 60 1351 -528 64 1354 SkeletonHeadStatue.tml
@@ -33,13 +35,32 @@
 -501 58 2053 -486 66 2068 Mausoleum.tml
 -499 57 1666 -496 61 1668 SkeletonHeadStatue.tml
 -475 55 1573 -468 64 1580 Outcrop.tml
+-469 57 2436 -462 61 2443 TinyFarmField.tml
+-457 55 2634 -447 60 2644 RuinedSmallFountainDiagonal.tml
 -440 56 2180 -430 61 2190 RuinedSmallFountainDiagonal.tml
+-436 57 1973 -434 61 1976 SkeletonHeadStatue.tml
 -419 59 1721 -414 62 1728 Melonfield.tml
+-410 58 2096 -403 63 2101 ZombieHut.tml
+-393 60 2377 -389 62 2381 EmeraldOreOutcrop.tml
 -383 62 1645 -379 64 1649 EmeraldOreOutcrop.tml
 -381 60 1498 -376 66 1503 CaveSpiderBurrow.tml
+-380 62 2482 -373 65 2487 Melonfield.tml
+-374 55 2649 -369 61 2654 CaveSpiderBurrow.tml
+-352 59 2196 -339 91 2209 OreSpire.tml
+-348 58 2207 -335 90 2220 OreSpire.tml
 -307 53 1563 -304 59 1567 StonePillar.tml
+-285 56 2558 -281 62 2561 StonePillar.tml
+-252 56 2125 -242 65 2137 StoneHouseMruined.tml
+-251 56 2204 -242 71 2213 MoaiHead.tml
+-250 46 2637 -247 50 2639 SkeletonHeadStatue.tml
+-231 49 1978 -224 52 1983 PumpkinField.tml
+-206 61 2320 -193 70 2333 VolcanicVent.tml
+-167 57 2226 -162 63 2231 CaveSpiderBurrow.tml
+-113 56 2364 -106 60 2371 TinyFarmField.tml
+-92 58 2241 -87 61 2248 Melonfield.tml
 -85 55 1156 -82 61 1160 StonePillar.tml
 -47 57 1249 -36 65 1257 MinersHut.tml
+3 58 2481 10 67 2488 Outcrop.tml
 109 55 1236 112 59 1239 StoneGrill.tml
 201 58 1128 208 62 1135 TinyFarmField.tml
 206 61 1200 218 66 1212 AncientFountain.tml
