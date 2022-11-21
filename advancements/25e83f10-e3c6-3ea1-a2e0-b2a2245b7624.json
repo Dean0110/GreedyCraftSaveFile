@@ -789,6 +789,12 @@
     },
     "done": true
   },
+  "projecte:condenser": {
+    "criteria": {
+      "condenser": "2022-11-21 11:43:56 +0800"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/skeleton_druid": {
     "criteria": {
       "hurt": "2022-11-06 19:26:03 +0800"
@@ -931,7 +937,7 @@
   },
   "greedycraft:elysia/log7": {
     "criteria": {
-      "gc_stage_awakened": "2022-11-20 21:54:23 +0800"
+      "gc_stage_awakened": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
@@ -955,13 +961,19 @@
   },
   "greedycraft:elysia/log6": {
     "criteria": {
-      "gc_stage_wyvern": "2022-11-20 21:54:23 +0800"
+      "gc_stage_wyvern": "2022-11-21 18:45:40 +0800"
+    },
+    "done": true
+  },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2022-11-21 23:17:25 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-20 21:54:23 +0800"
+      "gc_entered_twilight_forest": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
@@ -973,7 +985,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-20 21:54:23 +0800"
+      "gc_killed_wither": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
@@ -991,19 +1003,19 @@
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-20 21:54:23 +0800"
+      "gc_entered_the_nether": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log5": {
     "criteria": {
-      "gc_stage_hardmode": "2022-11-20 21:54:23 +0800"
+      "gc_stage_hardmode": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log4": {
     "criteria": {
-      "gc_stage_ender_charm": "2022-11-20 21:54:23 +0800"
+      "gc_stage_ender_charm": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
@@ -1395,6 +1407,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2022-11-21 21:50:09 +0800"
+    },
+    "done": true
+  },
   "defiledlands:main/hephaestite": {
     "criteria": {
       "hephaestite": "2022-11-10 13:22:37 +0800"
@@ -1535,6 +1553,12 @@
     },
     "done": true
   },
+  "botania:main/mana_blaster_shoot": {
+    "criteria": {
+      "shoot": "2022-11-21 15:10:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-06 00:23:24 +0800"
@@ -1586,6 +1610,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-11-06 00:15:25 +0800"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2022-11-21 11:00:39 +0800"
     },
     "done": true
   },
@@ -2557,6 +2587,12 @@
     },
     "done": true
   },
+  "rftools:root": {
+    "criteria": {
+      "has_machine_frame": "2022-11-21 23:50:01 +0800"
+    },
+    "done": true
+  },
   "tofucraft:tofucraft/tofugandlem": {
     "criteria": {
       "killed_tofugandlem": "2022-11-14 23:56:39 +0800"
@@ -2789,7 +2825,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-20 21:54:23 +0800"
+      "gc_location": "2022-11-21 18:45:40 +0800"
     },
     "done": true
   },
@@ -2906,6 +2942,12 @@
   "tofucraft:recipes/food/saltfurnace": {
     "criteria": {
       "soybeans": "2022-11-05 23:30:34 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:item/3_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter": "2022-11-21 23:55:58 +0800"
     },
     "done": true
   },
@@ -4863,6 +4905,8 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter2": "2022-11-21 23:55:58 +0800",
+      "inv_changed-enderio:item_limited_item_filter2": "2022-11-21 23:56:01 +0800",
       "inv_changed-enderio:item_basic_item_filter2": "2022-11-15 17:38:15 +0800"
     },
     "done": false
@@ -4984,6 +5028,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-11-06 00:13:16 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/tools/biome_finder": {
+    "criteria": {
+      "has_artifact": "2022-11-21 21:49:57 +0800"
     },
     "done": true
   },

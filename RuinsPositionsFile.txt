@@ -441,11 +441,15 @@
 17 42 -495 53 58 -484 SunkenShip-v3.tml
 38 41 -484 74 65 -473 SunkenShip-v2.tml
 45 44 539 71 61 547 shipwreck.tml
+83 39 5008 119 63 5019 SunkenShip-v2.tml
 95 62 -579 98 66 -576 StoneGrill.tml
+107 48 5131 133 65 5139 shipwreck.tml
 168 63 -445 183 71 -436 Archway.tml
 208 40 273 234 57 281 shipwreck.tml
+259 43 5157 295 59 5168 SunkenShip-v3.tml
 296 43 -39 322 60 -31 shipwreck.tml
 322 65 70 337 73 79 Archway.tml
 364 64 221 368 66 225 EmeraldOreOutcrop.tml
 950 72 634 952 76 637 SkeletonHeadStatue.tml
 1023 67 731 1028 72 738 ZombieHut.tml
+3029 65 -18 3034 70 -11 ZombieHut.tml
