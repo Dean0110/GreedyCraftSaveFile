@@ -1141,6 +1141,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/use_meta": {
+    "criteria": {
+      "example": "2022-11-22 13:55:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-21 11:59:11 +0800"
