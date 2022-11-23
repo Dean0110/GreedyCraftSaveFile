@@ -1,49 +1,67 @@
 {
   "greedycraft:elysia/log7": {
     "criteria": {
-      "gc_stage_awakened": "2022-11-23 00:36:45 +0800"
+      "gc_stage_awakened": "2022-11-23 10:20:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log6": {
     "criteria": {
-      "gc_stage_wyvern": "2022-11-23 00:36:45 +0800"
+      "gc_stage_wyvern": "2022-11-23 10:20:39 +0800"
+    },
+    "done": true
+  },
+  "greedycraft:elysia/log8": {
+    "criteria": {
+      "gc_stage_chaotic": "2022-11-23 10:22:30 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-23 00:36:45 +0800"
+      "gc_location": "2022-11-23 10:20:39 +0800"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2022-11-23 10:58:36 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-23 00:36:45 +0800"
+      "gc_entered_twilight_forest": "2022-11-23 10:20:39 +0800"
+    },
+    "done": true
+  },
+  "extrabotany:main/fragmentforge": {
+    "criteria": {
+      "ebt_trigger": "2022-11-23 17:35:24 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-23 00:36:45 +0800"
+      "gc_killed_wither": "2022-11-23 10:20:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-23 00:36:45 +0800"
+      "gc_entered_the_nether": "2022-11-23 10:20:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log5": {
     "criteria": {
-      "gc_stage_hardmode": "2022-11-23 00:36:45 +0800"
+      "gc_stage_hardmode": "2022-11-23 10:20:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log4": {
     "criteria": {
-      "gc_stage_ender_charm": "2022-11-23 00:36:45 +0800"
+      "gc_stage_ender_charm": "2022-11-23 10:20:39 +0800"
     },
     "done": true
   }
