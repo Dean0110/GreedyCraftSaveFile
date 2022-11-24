@@ -943,7 +943,7 @@
   },
   "greedycraft:elysia/log7": {
     "criteria": {
-      "gc_stage_awakened": "2022-11-23 15:34:34 +0800"
+      "gc_stage_awakened": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
@@ -967,13 +967,13 @@
   },
   "greedycraft:elysia/log6": {
     "criteria": {
-      "gc_stage_wyvern": "2022-11-23 15:34:34 +0800"
+      "gc_stage_wyvern": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log8": {
     "criteria": {
-      "gc_stage_chaotic": "2022-11-23 15:34:34 +0800"
+      "gc_stage_chaotic": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
@@ -985,7 +985,7 @@
   },
   "greedycraft:elysia/log1": {
     "criteria": {
-      "gc_entered_twilight_forest": "2022-11-23 15:34:34 +0800"
+      "gc_entered_twilight_forest": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
@@ -997,7 +997,7 @@
   },
   "greedycraft:elysia/log3": {
     "criteria": {
-      "gc_killed_wither": "2022-11-23 15:34:34 +0800"
+      "gc_killed_wither": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
@@ -1015,19 +1015,19 @@
   },
   "greedycraft:elysia/log2": {
     "criteria": {
-      "gc_entered_the_nether": "2022-11-23 15:34:34 +0800"
+      "gc_entered_the_nether": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log5": {
     "criteria": {
-      "gc_stage_hardmode": "2022-11-23 15:34:34 +0800"
+      "gc_stage_hardmode": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
   "greedycraft:elysia/log4": {
     "criteria": {
-      "gc_stage_ender_charm": "2022-11-23 15:34:34 +0800"
+      "gc_stage_ender_charm": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
@@ -2643,6 +2643,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2022-11-24 22:23:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-11-06 00:59:40 +0800"
@@ -2863,7 +2869,7 @@
   },
   "greedycraft:elysia/root": {
     "criteria": {
-      "gc_location": "2022-11-23 15:34:34 +0800"
+      "gc_location": "2022-11-24 22:43:39 +0800"
     },
     "done": true
   },
